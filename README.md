@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLHolman
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in becoming a SOC analysis 
+- 🌱 I’m currently learning coding and Cybersecurity
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @ Tklholman@gmail.com
 
